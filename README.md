@@ -74,10 +74,10 @@ Preparing for Web Development Internship
 
 📫 Connect With Me
 
-🐙 GitHub: https://github.com/your-username
+🐙 GitHub: https://github.com/abbas99917
 
-💼 LinkedIn: (add your LinkedIn link)
-📧 Email: your-email@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-abbas-35b6a838b/
+📧 Email: abbasgraphic17@gmail.com
 
 ⭐ Thanks for visiting!
 Feel free to explore my repositories and ⭐ star the projects you like.
