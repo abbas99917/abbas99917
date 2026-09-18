@@ -1,84 +1,12 @@
-👋 Hi, I'm Muhammad Abbas
 
-Welcome to my GitHub profile!
-I am a passionate Web Developer with a strong foundation in HTML, CSS, Bootstrap, and JavaScript. Currently, I am focusing on improving my JavaScript skills and building real-world projects to prepare for internships and professional opportunities.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abbas99917&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abbas99917&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abbas99917&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🚀 About Me
+---
+[![](https://komarev.com/ghpvc/?username=abbas99917&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌐 Front-End Web Developer
-💻 Computer Science Student
-📍 Based in Peshawar, Pakistan
-🎯 Focused on clean UI, responsive design & interactive websites
-📚 Currently learning JavaScript (Advanced concepts)
-⚡ Love turning ideas into functional web apps
-
-🛠️ Skills & Tools
-💻 Web Development
-
-HTML5
-
-CSS3
-
-Bootstrap
-
-JavaScript (DOM, Events, Logic Building)
-
-🧰 Tools & Workflow
-
-Git & GitHub
-
-VS Code
-
-Responsive Web Design
-
-Browser DevTools
-
-🧩 Projects
-🔹 1. E-Commerce Website (Frontend)
-
-Product listing
-
-Add to cart functionality
-
-LocalStorage usage
-
-Clean & responsive UI
-
-🔹 2. Facebook Post Card UI
-
-Profile section
-
-Image post
-
-Like, Comment & Share buttons
-
-Pure HTML & CSS
-
-🔹 3. JavaScript Practice Projects
-
-DOM manipulation
-
-Event handling
-
-Logic-based mini projects
-
-📚 Currently Learning
-
-Advanced JavaScript
-
-ES6 Concepts
-
-Real-world project structuring
-
-Preparing for Web Development Internship
-
-📫 Connect With Me
-
-🐙 GitHub: https://github.com/abbas99917
-
-💼 LinkedIn: https://www.linkedin.com/in/muhammad-abbas-35b6a838b/
-📧 Email: abbasgraphic17@gmail.com
-
-⭐ Thanks for visiting!
-Feel free to explore my repositories and ⭐ star the projects you like.
-Let’s build something awesome together 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
